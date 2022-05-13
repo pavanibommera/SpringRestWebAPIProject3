@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+body{
+    
+}
+h1{
+	backgoround-color:red;
+	color:black;
+	text-align:center;
+}
+img{
+	height:20px;
+	width:300px;
+}
+img{
+	margin:3px;
+	padding:30px;
+	border:10px solid #add;
+	border-radius:50%;
+}
+
